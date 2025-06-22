@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI And Data Science
 - 💞️ I’m looking to collaborate on Project,ideas
 - 📫 How to reach me Email
-- 😄 Pronouns: ...
+
 
 
 <!---
