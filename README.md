@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @BinaryBard27
-- 👀 I’m interested in Tech,histroy,Science,Philosophy
-- 🌱 I’m currently learning AI And Data Science
-- 💞️ I’m looking to collaborate on Project,ideas
-- 📫 How to reach me Email
+-
 
 
 
