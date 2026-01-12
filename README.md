@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am looking for internships and jobs. <br>I am learning system design, AI/ML, cybersecurity, and backend development. <br>I am also contributing to open-source projects. <br>I am an undergraduate in AI and data science. <br>Additionally, I love history, finance, physics, and philosophy.
+<br>I am learning system design, AI/ML, cybersecurity, and backend development. <br>I am also contributing to open-source projects. <br>I am an undergraduate in AI and data science. <br>Additionally, I love history, finance, physics, and philosophy.
 
 
 ## 🌐 Socials:
